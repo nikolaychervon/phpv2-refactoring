@@ -1,0 +1,16 @@
+{
+    "name": "chervon/abcp",
+    "description": "ABCP Test Work",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Nikolay Chervon",
+            "email": "nikolaychervon25@gmail.com"
+        }
+    ],
+    "require": {}
+}
